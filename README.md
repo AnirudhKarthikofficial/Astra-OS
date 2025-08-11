@@ -8,7 +8,7 @@ Astro is currently a kernel written in x86 Assembly that was designed to run on 
 
 # Support
 
- If you need help using NASM, you can go to their website [NASM](https://www.nasm.us), or go to TechHub (a temp server) [Discord Server](https://discord.gg/XP7JxVBHA2). If anymore information is needed, contact YourLocalDumbassBitch within the server.
+ If you need help using NASM, you can go to their website [NASM](https://www.nasm.us), or go to TechHub (a temp server) [Discord Server](https://discord.gg/XP7JxVBHA2). If anymore information is needed, contact YourLocalDumbassBitch within the server. (OUTDATED SERVER)
 
 # Hardware and Virtualiztion 
 
