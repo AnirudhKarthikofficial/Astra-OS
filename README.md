@@ -17,3 +17,7 @@ KassOS was originally developed to run on a Dell Inspiron 1525 with an Intel Cor
 # Getting Changed 
 
 This OS, is getting changed and will be updated, this OS KassOS will be changed to AstraOS due to the previous owner asking to change the name since he wanted the name "KassOS" but the OS is still a legacy and will get updates.
+
+# Ownership
+
+Ownership was transferred to Anirudh after the owner decided to stop working on the project, but Anirudh wanted to continue it.
